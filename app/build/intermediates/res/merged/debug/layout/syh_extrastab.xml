@@ -1,0 +1,73 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        	  xmlns:tools="http://schemas.android.com/tools"
+    		  android:id="@+id/SyhExtrasTabLayout"
+              android:layout_width="fill_parent" 
+              android:layout_height="fill_parent" 
+              android:orientation="vertical"
+              android:gravity="center"
+              android:paddingTop="0dip" >
+              
+        <TextView
+            android:id="@+id/textViewDevInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#fffafafa"
+            android:paddingBottom="10dip"
+            android:paddingTop="10dip"
+            android:text="@string/developer_info"
+            android:textColor="#263238"
+            android:textStyle="normal|bold"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp" />
+
+          <TextView
+        android:id="@+id/textViewAppVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+              android:background="#fffafafa"
+        android:paddingTop="5dip"
+        android:paddingBottom="5dip"
+              android:textStyle="normal"
+              android:paddingLeft="5dp"
+              android:paddingRight="5dp" />
+                
+       	<Button 
+        android:id="@+id/ResetSettings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textColor="#ff263238"
+        android:text="@string/reset_settings"
+            android:textStyle="bold" />
+        
+       	<Button 
+        android:id="@+id/FlashKernel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textColor="#ff263238"
+        android:text="@string/flash_kernel"
+            android:textStyle="bold" />
+        
+        <TextView
+        android:id="@+id/textViewKernelVersion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#263238"
+        android:background="#fffafafa"
+        android:paddingTop="0dip"
+        android:paddingBottom="20dip" />
+                      	
+</LinearLayout>
+
+ <!--        
+       	<Button 
+        android:id="@+id/PayPalButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:typeface="serif"
+        android:textColor="#ffffffff"
+        android:text="@string/paypal"/>
+  -->   

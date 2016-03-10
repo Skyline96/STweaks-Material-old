@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "D:\\STweaks-master1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 81,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "E:\\STweaks-Material\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 81,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="ltgray">#ffcccccc</color>
+	<color name="dkgray">#ff444444</color>
+	<color name="primary_material_dark">#263238</color>
+	<color name="primary_dark_material_dark">#21272b</color>
+	<color name="accent_material_light">#009688</color>
+</resources>

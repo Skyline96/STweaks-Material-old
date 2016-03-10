@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_panelname.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_panelname.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_button.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_button.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\syh_extrastab.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\syh_extrastab.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_checkbox.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_checkbox.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_spinner_item.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_paneldesc.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_paneldesc.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_checkbox.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_checkbox.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_spinner_item.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_spinner_item.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_paneldesc.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_paneldesc.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_spinner.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_spinner.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_panelname.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_panelname.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_button.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\template_button.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\template_spinner.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\template_spinner.xml"
+    },
+    {
+        "merged": "E:\\STweaks-Material\\app\\build\\intermediates\\res\\merged\\debug\\layout\\syh_extrastab.xml",
+        "source": "E:\\STweaks-Material\\app\\src\\main\\res\\layout\\syh_extrastab.xml"
+    },
+    {
+        "merged": "D:\\STweaks-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\STweaks-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
